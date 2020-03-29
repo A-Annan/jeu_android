@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jeu</string>
+    <string name="bravo">جيد</string>
+    <string name="devinez">احزر</string>
+    <string name="nvl_essai">محاولة اخرى</string>
+    <string name="ok">حسناََ</string>
+    <string name="quit">خروج</string>
+    <string name="score">النتيجة</string>
+    <string name="val_inf">اصغر</string>
+    <string name="val_sup">اكبر</string>
+</resources>

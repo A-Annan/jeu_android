@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Jeu</string>
+    <string name="bravo">Good</string>
+    <string name="devinez">guess</string>
+    <string name="score">score</string>
+    <string name="val_inf">value low</string>
+    <string name="val_sup">value high</string>
+    <string name="quit">quit</string>
+    <string name="ok">ok</string>
+    <string name="nvl_essai">new try</string>
+</resources>
